@@ -1,4 +1,4 @@
-# lyfpass-charter
+# LYFPASS Charter on GitHub
 LYFPASS (LP) Charter is an open manifesto containing set of the rights, beliefs, values, and principles that governs the LP's Vision, Mission, and Operations.
 # Important Information
 This repositary is divided into following sections:
