@@ -9,4 +9,4 @@ This repositary is divided into following sections:
 6. Upcoming Changes and Reforms
 
 # LYFPASS WiKi
-To visit the LYFPASS Wiki page, please visit [LYFPASS WiKi](https://github.com/sarabconsulting/lyfpass-charter.github.io/wiki)
+To visit the LYFPASS Wiki page, please visit [LYFPASS WiKi](https://github.com/sarabconsulting/lyfpass-charter.github.io/wiki) or [LYFPASS on Web](https://www.lyfpass.com)
