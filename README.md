@@ -6,4 +6,4 @@ This repositary is divided into following sections
 2. Governing Ordinances, Rules, and Regulations
 
 # LYFPASS WiKi
-To visit the LYFPASS Wiki page, please visit [LYFPASS](https://github.com/sarabconsulting/lyfpass-charter.github.io/wiki)
+To visit the LYFPASS Wiki page, please visit [LYFPASS WiKi](https://github.com/sarabconsulting/lyfpass-charter.github.io/wiki)
